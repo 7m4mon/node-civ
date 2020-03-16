@@ -3,5 +3,5 @@
 Control icom's transceiver from node.js (node-serialport)
 
 This is old & prototype project.  
-すっかり忘れて興味も失ってしまいましたが、誰かの参考になるかもしれないのでオープンソースにしておきます。  
+すっかり忘れて興味も失ってしまいましたが、誰かの参考になったらいいなと考えたので公開しておきます。  
 
